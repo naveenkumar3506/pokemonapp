@@ -1,5 +1,4 @@
 # Pokémon Explorer
-
 A Flutter app to browse Pokémon data from PokéAPI. Works offline, loads images fast, and has a clean UI.
 
 ## What it does
